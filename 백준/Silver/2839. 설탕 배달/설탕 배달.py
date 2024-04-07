@@ -8,6 +8,7 @@ while(1):
     break
   n-=3
   cnt+=1
+    
   if n<0:
     print(-1)
     break
